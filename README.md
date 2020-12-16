@@ -113,3 +113,5 @@
 如果有勘误（先对该公司说声对不起），欢迎大家指正~
 
 欢迎大家关注提 issues 来参与维护这个list~
+
+其他：[程序员找工作黑名单公司（仅供参考）](https://github.com/shengxinjing/programmer-job-blacklist)
