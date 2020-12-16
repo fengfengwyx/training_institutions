@@ -4,7 +4,7 @@
 对于培训机构，不黑不评论，每个人有自己的选择。此处只是罗列一个软件测试行业的培训机构清单。
 
 更多软件测试干货和资料，欢迎关注我的微信公众号——测试奇谭
-![avatar](https://github.com/fengfengwyx/training_institutions/blob/main/pic/whchat_pic.jpg)
+[戳我关注~](http://note.youdao.com/noteshare?id=b0cb6cba018bb5217027a49bcd697f17&sub=C2A67AD4B39E40C8BC436BC3D15015E8)
 ## 不良培训机构的特点
 培训机构有好有坏，一些不良培训机构，打着招聘的名义坑蒙拐骗，求职者需擦亮双眼，他们有如下特点：
 #### 01 招聘需求
